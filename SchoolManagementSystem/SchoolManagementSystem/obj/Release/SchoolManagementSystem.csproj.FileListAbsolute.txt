@@ -1,0 +1,6 @@
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Release\SchoolManagementSystem.exe.config
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Release\SchoolManagementSystem.exe
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Release\SchoolManagementSystem.pdb
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Release\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Release\SchoolManagementSystem.exe
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Release\SchoolManagementSystem.pdb

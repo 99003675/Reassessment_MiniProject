@@ -1,0 +1,14 @@
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\Shrishti Poddar\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+C:\Users\priya\OneDrive\Desktop\New folder (2)\personal-main\personal-main\studentdetails\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\priya\OneDrive\Desktop\New folder (2)\personal-main\personal-main\studentdetails\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\priya\OneDrive\Desktop\New folder (2)\personal-main\personal-main\studentdetails\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\priya\OneDrive\Desktop\New folder (2)\personal-main\personal-main\studentdetails\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojAssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\New folder (2)\personal-main\personal-main\studentdetails\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\New folder (2)\personal-main\personal-main\studentdetails\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+C:\Users\priya\OneDrive\Desktop\New folder (2)\personal-main\personal-main\studentdetails\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
