@@ -8,6 +8,6 @@ The architecture diagram provides an overview of an entire system, identifying t
 
 All the data flows, flowcharts, etc are in these documents. So that developers can understand how the system is expected to work with regards to the features.
 
-USE CASE DIAGRAM :
+
 
 
