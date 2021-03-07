@@ -6,4 +6,4 @@ High – level design explains the system architecture that would be used for de
 The architecture diagram provides an overview of an entire system, identifying the man components that would be developed for the product and their interfaces.
 All the data flows, flowcharts, etc are in these documents. So that developers can understand how the system is expected to work with regards to the features.
 USE CASE DIAGRAM :
-![](https://github.com/99003675/Reassessment_MiniProject/blob/main/SchoolManagementSystem/Design/High_Level_Design.PNG)
+![High_Level_Design](https://github.com/99003675/Reassessment_MiniProject/blob/main/SchoolManagementSystem/Design/High_Level_Design.PNG)
