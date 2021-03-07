@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SchoolManagementSystem
 {
-    class Admin
+    public class Admin
     {
         public String UserId = "admin";
         public String Password = "admins@123";
