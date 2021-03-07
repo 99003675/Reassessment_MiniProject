@@ -8,5 +8,4 @@ This process can be used for designing data structures, required software archit
 
 The data organization may be defined requirement analysis and then refined during data design work.
 
-CLASS DIAGRAM :
 
